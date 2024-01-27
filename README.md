@@ -1,5 +1,10 @@
 ## nemosofts.com
 
+you can add dependencies on the modules like this:
+
+```kotlin
+implementation("com.github.nemosofts:library:1.X.X")
+```
 
 Or in Gradle Groovy DSL `build.gradle`:
 
