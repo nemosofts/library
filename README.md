@@ -1,7 +1,7 @@
 ## nemosofts.com
 
 #### 1. Add module dependencies
-you can add dependencies on the modules like this:
+For example you can add dependencies on the modules like this:
 
 ```kotlin
 implementation("com.github.nemosofts:library:1.X.X")
