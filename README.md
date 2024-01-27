@@ -3,6 +3,8 @@
 #### 1. Add module dependencies
 For example you can add dependencies on the modules like this:
 
+`build.gradle.kts`
+
 ```kotlin
 implementation("com.github.nemosofts:library:1.X.X")
 ```
