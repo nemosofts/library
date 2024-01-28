@@ -1,5 +1,5 @@
-![GitHub release (latest by date)](https://img.shields.io/github/v/release/gradle-dependency-analyze/gradle-dependency-analyze)
 ## nemosofts.com
+![GitHub release (latest by date)](https://img.shields.io/github/v/release/nemosofts/library)
 
 #### 1. Add module dependencies
 For example you can add dependencies on the modules like this:
