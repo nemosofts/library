@@ -3,7 +3,6 @@
 
 `ThemeEngine`
 `ColorUtils`
-`CustomAppCompatActivity` 
 `PlayPauseView`
 `BlurImage`
 `CustomImageView`
