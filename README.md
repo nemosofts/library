@@ -1,6 +1,8 @@
 ## Nemosofts UI Library
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nemosofts/library)
-[GitHub Profile Views Counter]: https://github.com/nemosofts/library
+<a href="https://github.com/nemosofts/library">
+    <img src="https://komarev.com/ghpvc/?username=nemosofts&style=for-the-badge">
+</a>
 
 `ThemeEngine`
 `ColorUtils`
