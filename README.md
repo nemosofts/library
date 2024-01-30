@@ -4,8 +4,8 @@
 #### Nemosofts UI Library
 `ThemeEngine` 
 `CustomYouTubeExtractor` 
-`CustomPlayPauseView`
-`CustomBlurImage`
+`PlayPauseView`
+`BlurImage`
 `CustomImageView`
 `CustomCheckBox`
 `CustomProgressBar`
