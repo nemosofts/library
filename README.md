@@ -1,7 +1,6 @@
-## nemosofts.com
+## Nemosofts UI Library
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nemosofts/library)
 
-#### Nemosofts UI Library
 `ThemeEngine`
 `ColorUtils`
 `CustomAppCompatActivity` 
@@ -29,3 +28,6 @@ Or in Gradle Groovy DSL `build.gradle`:
 implementation 'com.github.nemosofts:library:1.X.X'
 ```
 where `1.X.X` is your preferred version. All modules must be the same version.
+
+https://nemosofts.com/
+https://codecanyon.net/user/nemosofts
