@@ -1,6 +1,6 @@
 ## Nemosofts UI Library
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nemosofts/library)
-![GitHub Profile Views Counter]: https://github.com/nemosofts/library
+![[GitHub Profile Views Counter](https://img.shields.io/github/v/release/nemosofts/library)
 
 `ThemeEngine`
 `ColorUtils`
