@@ -3,6 +3,7 @@
 
 #### Nemosofts UI Library
 `ThemeEngine` 
+`CustomAppCompatActivity` 
 `CustomYouTubeExtractor` 
 `PlayPauseView`
 `BlurImage`
@@ -10,6 +11,8 @@
 `CustomCheckBox`
 `CustomProgressBar`
 `CustomSwitchButton`
+`CustomViewPager`
+`Utils`
 
 #### 1. Add module dependencies
 For example you can add dependencies on the modules like this:
