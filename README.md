@@ -2,7 +2,8 @@
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nemosofts/library)
 
 #### Nemosofts UI Library
-`ThemeEngine` 
+`ThemeEngine`
+`ColorUtils`
 `CustomAppCompatActivity` 
 `CustomYouTubeExtractor` 
 `PlayPauseView`
