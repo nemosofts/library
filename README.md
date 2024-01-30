@@ -1,7 +1,7 @@
 ## Nemosofts UI Library
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nemosofts/library)
 <a href="https://github.com/nemosofts/library">
-    <img src="https://komarev.com/ghpvc/?username=nemosofts&style=flat&color=yellow">
+    <img src="https://komarev.com/ghpvc/?username=nemosofts&style=flat&color=red">
 </a>
 
 `ThemeEngine`
