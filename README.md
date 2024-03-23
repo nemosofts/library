@@ -3,6 +3,7 @@
 <a href="https://github.com/nemosofts/library">
     <img src="https://komarev.com/ghpvc/?username=nemosofts&style=flat&color=red">
 </a>
+[![](https://jitpack.io/v/nemosofts/library.svg)](https://jitpack.io/#nemosofts/library)
 
 `ThemeEngine`
 `ColorUtils`
