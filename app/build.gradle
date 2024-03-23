@@ -21,7 +21,6 @@ android {
         release {
             minifyEnabled true
             proguardFiles getDefaultProguardFile('proguard-android-optimize.txt'), 'proguard-rules.pro'
-            consumerProguardFiles 'consumer-rules.pro'
         }
     }
 
@@ -54,7 +53,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.github.nemosofts'
             artifactId = 'library'
-            version = "1.0.1"
+            version = "1.0.3"
             pom {
                 description = 'nemosofts'
             }
