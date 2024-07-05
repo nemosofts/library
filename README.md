@@ -3,17 +3,12 @@
 <a href="https://github.com/nemosofts/library">
     <img src="https://komarev.com/ghpvc/?username=nemosofts&style=flat&color=red">
 </a>
-
-`ThemeEngine`
 `ColorUtils`
-`PlayPauseView`
 `BlurImage`
 `CustomImageView`
 `CustomCheckBox`
 `CustomProgressBar`
 `CustomSwitchButton`
-`CustomViewPager`
-`Utils`
 
 #### 1. Add module dependencies
 For example you can add dependencies on the modules like this:
