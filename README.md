@@ -37,36 +37,26 @@ xml
 ?ns_body
 ?ns_body_sub
 ?ns_body_dark
-
 ?ns_primary
 ?ns_primary_sub
-
 ?ns_border
-
 ?ns_title
 ?ns_title_sub
-
 ?ns_black
 ?ns_white
 ```
 
 java
 ```java
-
 ColorUtils.colorWhite(this)
 ColorUtils.colorBlack(this)
-
 ColorUtils.colorPrimary(this)
 ColorUtils.colorPrimarySub(this)
-
 ColorUtils.colorTitle(this)
 ColorUtils.colorTitleSub(this)
-
 ColorUtils.colorBody(this)
 ColorUtils.colorBodySub(this)
-
 ColorUtils.colorBorder(this)
-
 ```
 
 
