@@ -35,14 +35,10 @@ https://nemosofts.com
 AndroidManifest.xml
 xml
 ```xml
-<application
-        android:theme="@style/ThemeEngineLight">
-<application
-        android:theme="@style/ThemeEngineDark">
-<application
-        android:theme="@style/ThemeEngineBlue">
-<application
-        android:theme="@style/ThemeEngineGrey">
+<application android:theme="@style/ThemeEngineLight">
+<application android:theme="@style/ThemeEngineDark">
+<application android:theme="@style/ThemeEngineBlue">
+<application android:theme="@style/ThemeEngineGrey">
 ```
 
 xml
