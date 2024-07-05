@@ -31,11 +31,9 @@ https://nemosofts.com
 
 
 `ColorUtils`
+
 xml
 ```xml
-android:background="?ns_body"
-android:textColor="?ns_title"
-
 ?ns_body
 ?ns_body_sub
 ?ns_body_dark
