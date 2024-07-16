@@ -4,16 +4,12 @@
     <img src="https://komarev.com/ghpvc/?username=nemosofts&style=flat&color=red">
 </a>
 
-`ThemeEngine`
 `ColorUtils`
-`PlayPauseView`
 `BlurImage`
 `CustomImageView`
 `CustomCheckBox`
 `CustomProgressBar`
 `CustomSwitchButton`
-`CustomViewPager`
-`Utils`
 
 #### 1. Add module dependencies
 For example you can add dependencies on the modules like this:
@@ -32,3 +28,6 @@ implementation 'com.github.nemosofts:library:4.X.X'
 where `4.X.X` is your preferred version. All modules must be the same version.
 
 https://nemosofts.com
+
+
+
