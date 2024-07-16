@@ -30,43 +30,4 @@ where `2.X.X` is your preferred version. All modules must be the same version.
 https://nemosofts.com
 
 
-`ColorUtils`
-
-AndroidManifest.xml
-xml
-```xml
-<application android:theme="@style/ThemeEngineLight">
-<application android:theme="@style/ThemeEngineDark">
-<application android:theme="@style/ThemeEngineBlue">
-<application android:theme="@style/ThemeEngineGrey">
-```
-
-xml
-```xml
-?ns_body
-?ns_body_sub
-?ns_body_dark
-?ns_primary
-?ns_primary_sub
-?ns_border
-?ns_title
-?ns_title_sub
-?ns_black
-?ns_white
-```
-
-java
-```java
-ColorUtils.colorWhite(this)
-ColorUtils.colorBlack(this)
-ColorUtils.colorPrimary(this)
-ColorUtils.colorPrimarySub(this)
-ColorUtils.colorTitle(this)
-ColorUtils.colorTitleSub(this)
-ColorUtils.colorBody(this)
-ColorUtils.colorBodySub(this)
-ColorUtils.colorBorder(this)
-```
-
-
 
