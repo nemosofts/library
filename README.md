@@ -28,7 +28,7 @@ Or in Gradle Groovy DSL `build.gradle`:
 ```groovy
 implementation 'com.github.nemosofts:library:6.X.X'
 ```
-where `5.X.X` is your preferred version. All modules must be the same version.
+where `6.X.X` is your preferred version. All modules must be the same version.
 
 https://nemosofts.com
 
