@@ -7,27 +7,19 @@
 [![API](https://img.shields.io/badge/API-23%2B-brightgreen.svg?style=flat)](https://android-arsenal.com/api?level=23)
 [![CodeFactor](https://www.codefactor.io/repository/github/nemosofts/library/badge)](https://www.codefactor.io/repository/github/nemosofts/library)
 
-
-`ColorUtils`
-`BlurImage`
-`CustomImageView`
-`CustomCheckBox`
-`CustomProgressBar`
-`CustomSwitchButton`
-
 #### 1. Add module dependencies
 For example you can add dependencies on the modules like this:
 `build.gradle.kts`
 
 
 ```kotlin
-implementation("com.github.nemosofts:library:8.1.5")
+implementation("com.github.nemosofts:library:8.1.6")
 ```
 
 Or in Gradle Groovy DSL `build.gradle`:
 
 ```groovy
-implementation 'com.github.nemosofts:library:8.1.5'
+implementation 'com.github.nemosofts:library:8.1.6'
 ```
 where `8.X.X` is your preferred version. All modules must be the same version.
 
