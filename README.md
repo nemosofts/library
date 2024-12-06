@@ -13,15 +13,15 @@ For example you can add dependencies on the modules like this:
 
 
 ```kotlin
-implementation("com.github.nemosofts:library:8.1.6")
+implementation("com.github.nemosofts:library:9.0.0")
 ```
 
 Or in Gradle Groovy DSL `build.gradle`:
 
 ```groovy
-implementation 'com.github.nemosofts:library:8.1.6'
+implementation 'com.github.nemosofts:library:9.0.0'
 ```
-where `8.X.X` is your preferred version. All modules must be the same version.
+where `9.X.X` is your preferred version. All modules must be the same version.
 
 https://nemosofts.com
 
