@@ -12,7 +12,7 @@ android {
         minSdk 23
         targetSdk 35
         versionCode 11
-        versionName "11.0.0"
+        versionName "11.1.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -53,7 +53,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.github.nemosofts'
             artifactId = 'library'
-            version = "11.0.0"
+            version = "11.1.0"
             pom {
                 description = 'nemosofts'
             }
