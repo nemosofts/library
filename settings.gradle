@@ -20,5 +20,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "nemosofts library v14.0.0"
+rootProject.name = "nemosofts library v15.0.0"
 include ':app'
