@@ -1,4 +1,5 @@
 ## Nemosofts UI Library
+[![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/nemosofts/library.svg?logo=github&label=GitHub&cacheSeconds=3600)](https://github.com/nemosofts/library/releases/latest)
 ![GitHub release (latest by date)](https://img.shields.io/github/v/release/nemosofts/library)
 [![](https://jitpack.io/v/nemosofts/library.svg)]([https://jitpack.io/](https://jitpack.io/v/nemosofts/library.svg))
 <a href="https://github.com/nemosofts/library">
