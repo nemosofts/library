@@ -5,14 +5,14 @@ plugins {
 
 android {
     namespace 'com.nemosofts.lib'
-    compileSdk 35
+    compileSdk 36
 
     defaultConfig {
         applicationId "com.nemosofts.lib"
         minSdk 23
-        targetSdk 35
-        versionCode 15
-        versionName "15.0.0"
+        targetSdk 36
+        versionCode 16
+        versionName "16.0.0"
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }
@@ -52,7 +52,7 @@ publishing {
         maven(MavenPublication) {
             groupId = 'com.github.nemosofts'
             artifactId = 'library'
-            version = "15.0.0"
+            version = "16.0.0"
             pom {
                 description = 'nemosofts'
             }
